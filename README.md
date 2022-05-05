@@ -1,4 +1,4 @@
-## More team projects i've worked on:
+## More team projects I've worked on:
 
 ### 2021 - [PMCSN](https://github.com/cesto93/pmcsn_project) (Performance Modeling of Computer Systems and Networks)
 Implementation of a discrete-event simulation model with an event-driven method
